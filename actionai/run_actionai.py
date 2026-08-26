@@ -24,4 +24,3 @@ class ActionAI:
                 print(f"Model prediction: {prediction}")
 
         return True
-
